@@ -1,22 +1,22 @@
 {
     "development": {
-      "username": "username",
+      "username": "essam1993",
       "password": "root",
-      "database": "people",
+      "database": "todo",
       "host": "127.0.0.1",
       "dialect": "postgres"
     },
     "test": {
-      "username": "username",
+      "username": "essam1993",
       "password": "password",
-      "database": "people",
+      "database": "todo",
       "host": "127.0.0.1",
       "dialect": "sqlite:memory:"
     },
     "production": {
-      "username": "username",
+      "username": "essam1993",
       "password": "password",
-      "database": "people",
+      "database": "todo",
       "host": "127.0.0.1",
       "dialect": "postgres"
     }
